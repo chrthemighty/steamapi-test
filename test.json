@@ -1,0 +1,1083 @@
+{
+  "assets": [
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "24361266474",
+      "classid": "3764009653",
+      "instanceid": "188530139",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "24196456022",
+      "classid": "937245221",
+      "instanceid": "480085569",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "24196425131",
+      "classid": "4404786277",
+      "instanceid": "188530139",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "24196399540",
+      "classid": "310776570",
+      "instanceid": "302028390",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "23957120781",
+      "classid": "4123189388",
+      "instanceid": "188530139",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "23957076048",
+      "classid": "1934423844",
+      "instanceid": "188530139",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "23957066229",
+      "classid": "4303618263",
+      "instanceid": "188530139",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "23929515610",
+      "classid": "4136012293",
+      "instanceid": "188530139",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "23727428326",
+      "classid": "3113364434",
+      "instanceid": "188530139",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "23711053436",
+      "classid": "3113364493",
+      "instanceid": "188530139",
+      "amount": "1"
+    }
+  ],
+  "descriptions": [
+    {
+      "appid": 730,
+      "classid": "3764009653",
+      "instanceid": "188530139",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0Ob3fC0X09izh4WZg8jnJ6nYnW5u5cB1g_zMu9Wn2gy2-EJvN2zyJtOSJwc7ZVvSqFW5x7jmhcO0uczKnCRqunYj5CrD30vgFU2Wrjg",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0Ob3fC0X09izh4WZg8jnJ6nYnW5u5cB1g_zMyoD0mlOx5UpuYWGhJ4eWJgM_Yw3Xr1C7xe3t15K7usvAySdrv3EhsCnUn0O2gE1SLrs49ca0tWc",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Field-Tested"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted with a high-tech design in tan and black.\n\n<i>Strike first, strike last</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Prisma 2 Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D11974694030476297495",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "name": "MP5-SD | Desert Strike",
+      "name_color": "D2D2D2",
+      "type": "Mil-Spec Grade SMG",
+      "market_name": "MP5-SD | Desert Strike (Field-Tested)",
+      "market_hash_name": "MP5-SD | Desert Strike (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D11974694030476297495",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_SMG",
+          "localized_category_name": "Type",
+          "localized_tag_name": "SMG"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_mp5sd",
+          "localized_category_name": "Weapon",
+          "localized_tag_name": "MP5-SD"
+        },
+        {
+          "category": "ItemSet",
+          "internal_name": "set_community_25",
+          "localized_category_name": "Collection",
+          "localized_tag_name": "The Prisma 2 Collection"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Category",
+          "localized_tag_name": "Normal"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Rare_Weapon",
+          "localized_category_name": "Quality",
+          "localized_tag_name": "Mil-Spec Grade",
+          "color": "4b69ff"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategory2",
+          "localized_category_name": "Exterior",
+          "localized_tag_name": "Field-Tested"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "937245221",
+      "instanceid": "480085569",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0v73ZDBS0863l4WZqPrxN7LEmyUD7MR1ibGZrIqg0QC38xZvY2D6ddeTIQ9saArU_ADsyei-0ZC0vJ-Y1zI97ahngDsr",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0v73ZDBS0863l4WZqPrxN7LEm1Rd6dd2j6eT8Y3xiwzs8hVpam2gLNOWcg83MAnWqVjsyLzrg8futJuYnXRruiJz-z-DyE7clW8z",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Field-Tested"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been custom painted with an old-fashioned racing motif.\n\n<i>Don't forget your helmet</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Chroma 2 Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16474280035441145472",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "name": "UMP-45 | Grand Prix",
+      "name_color": "D2D2D2",
+      "type": "Restricted SMG",
+      "market_name": "UMP-45 | Grand Prix (Field-Tested)",
+      "market_hash_name": "UMP-45 | Grand Prix (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16474280035441145472",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_SMG",
+          "localized_category_name": "Type",
+          "localized_tag_name": "SMG"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_ump45",
+          "localized_category_name": "Weapon",
+          "localized_tag_name": "UMP-45"
+        },
+        {
+          "category": "ItemSet",
+          "internal_name": "set_community_7",
+          "localized_category_name": "Collection",
+          "localized_tag_name": "The Chroma 2 Collection"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Category",
+          "localized_tag_name": "Normal"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Mythical_Weapon",
+          "localized_category_name": "Quality",
+          "localized_tag_name": "Restricted",
+          "color": "8847ff"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategory2",
+          "localized_category_name": "Exterior",
+          "localized_tag_name": "Field-Tested"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "4404786277",
+      "instanceid": "188530139",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJA4N21n7-YlvnwDLbUkmJE5YsjjOjC8NqhilDm_hVkZW2nI4eXcFc_Ml7VrwXqyL3qhpC46cmYyHNgpGB8smXHW7jQ",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJA4N21n7-YlvnwDLbUkmJE5fp9i_vG8MKnjlW3rkVoMT3xIdCddAJqZlnS-AC_kujq0MLotc7MynRn73Rz5H7egVXp1qAuaam8",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Field-Tested"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been custom painted with a tan and black military camo pattern.\n\n<i>\"End their campaign before it begins\"</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Clutch Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/big.e6525a264c0cad352b7d6abea5ae8c3de2d00517.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/enfu_capsule/chicken.ef56aeeaf9e3442849ad443af17996989672ae0d.png\"><br>Sticker: BIG | 2020 RMR, Chabo</center></div>"
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5666705412867016880",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "name": "MP9 | Black Sand",
+      "name_color": "D2D2D2",
+      "type": "Mil-Spec Grade SMG",
+      "market_name": "MP9 | Black Sand (Field-Tested)",
+      "market_hash_name": "MP9 | Black Sand (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D5666705412867016880",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_SMG",
+          "localized_category_name": "Type",
+          "localized_tag_name": "SMG"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_mp9",
+          "localized_category_name": "Weapon",
+          "localized_tag_name": "MP9"
+        },
+        {
+          "category": "ItemSet",
+          "internal_name": "set_community_19",
+          "localized_category_name": "Collection",
+          "localized_tag_name": "The Clutch Collection"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Category",
+          "localized_tag_name": "Normal"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Rare_Weapon",
+          "localized_category_name": "Quality",
+          "localized_tag_name": "Mil-Spec Grade",
+          "color": "4b69ff"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategory2",
+          "localized_category_name": "Exterior",
+          "localized_tag_name": "Field-Tested"
+        },
+        {
+          "category": "Tournament",
+          "internal_name": "Tournament17",
+          "localized_category_name": "Tournament",
+          "localized_tag_name": "2020 RMR"
+        },
+        {
+          "category": "TournamentTeam",
+          "internal_name": "Team69",
+          "localized_category_name": "Team",
+          "localized_tag_name": "BIG"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "310776570",
+      "instanceid": "302028390",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszOfi9H_8iJlo-Zkvb4DLbUkmJE5Yt1iOyY9tih3lfkqRI5MGnwdteSJwQ5Y1iD-1bqk-7rjcW7vsjJnXBhpGB8srdBob7C",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszOfi9H_8iJlo-Zkvb4DLbUkmJE5fp9i_vG8MLxilHtqEdoZTrzdtfAIQY9MwnXr1O5w-68hJHo7p3NwSFkuHUisX3fgVXp1taHNTzj",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Field-Tested"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been painted using a forest camouflage hydrographic.\n\n<i>The woods can be a dangerous place... never travel alone</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Lake Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D12541555356821000040",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "name": "P250 | Boreal Forest",
+      "name_color": "D2D2D2",
+      "type": "Consumer Grade Pistol",
+      "market_name": "P250 | Boreal Forest (Field-Tested)",
+      "market_hash_name": "P250 | Boreal Forest (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D12541555356821000040",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Pistol",
+          "localized_category_name": "Type",
+          "localized_tag_name": "Pistol"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_p250",
+          "localized_category_name": "Weapon",
+          "localized_tag_name": "P250"
+        },
+        {
+          "category": "ItemSet",
+          "internal_name": "set_lake",
+          "localized_category_name": "Collection",
+          "localized_tag_name": "The Lake Collection"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Category",
+          "localized_tag_name": "Normal"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Common_Weapon",
+          "localized_category_name": "Quality",
+          "localized_tag_name": "Consumer Grade",
+          "color": "b0c3d9"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategory2",
+          "localized_category_name": "Exterior",
+          "localized_tag_name": "Field-Tested"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "4123189388",
+      "instanceid": "188530139",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf1OD3cicVueOgkY6PkuPgMoTck29Y_cg_jr-Vo9Wn2gbmr0pkNjymJoOWJlNsaVnUqVi5l-zthpG9vMyam3JjuT5iuyhc19mUhQ",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf1OD3cicVueOgkY6PkuPgMoTck29Y_chOhujT8om7jALg_UpuYWvxcI-dJ1NrY13TrgTsye_r1p-76p_LynViunFxt3_dnAv330881h8bbQ",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Well-Worn"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. Through the years it has been etched into, drawn on, and hardened with use.\n\n<i>From my cold, dead hands</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Operation Broken Fang Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16457531990855899001",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "name": "CZ75-Auto | Vendetta",
+      "name_color": "D2D2D2",
+      "type": "Mil-Spec Grade Pistol",
+      "market_name": "CZ75-Auto | Vendetta (Well-Worn)",
+      "market_hash_name": "CZ75-Auto | Vendetta (Well-Worn)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16457531990855899001",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Pistol",
+          "localized_category_name": "Type",
+          "localized_tag_name": "Pistol"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_cz75a",
+          "localized_category_name": "Weapon",
+          "localized_tag_name": "CZ75-Auto"
+        },
+        {
+          "category": "ItemSet",
+          "internal_name": "set_community_27",
+          "localized_category_name": "Collection",
+          "localized_tag_name": "The Operation Broken Fang Collection"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Category",
+          "localized_tag_name": "Normal"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Rare_Weapon",
+          "localized_category_name": "Quality",
+          "localized_tag_name": "Mil-Spec Grade",
+          "color": "4b69ff"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategory3",
+          "localized_category_name": "Exterior",
+          "localized_tag_name": "Well-Worn"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "1934423844",
+      "instanceid": "188530139",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTjlH_9mkgL-OlvD4NoTSmWVC_MRzhuz--InxgUG55UJqY2r3II6QJFU8ZF7XqAW_yLu70J-8us7InCNjuSd043zYlhay101SLrs48d3fLCc",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTjlH_9mkgL-OlvD4NoTSmWVC_MRzhuz--InxgUG5lB89IT6mOoeTcgU6ZVDVrAK8xOjo18K9tcidnHtjvHMjsC7dnBLhhxtJZ-Zq06CACQLJFEJ-hwU",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Field-Tested"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been designed to help the future of law enforcement stop creeps.\n\n<i>Your move...</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Gamma 2 Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7659046725218518155",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "name": "Desert Eagle | Directive",
+      "name_color": "D2D2D2",
+      "type": "Restricted Pistol",
+      "market_name": "Desert Eagle | Directive (Field-Tested)",
+      "market_hash_name": "Desert Eagle | Directive (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D7659046725218518155",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Pistol",
+          "localized_category_name": "Type",
+          "localized_tag_name": "Pistol"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_deagle",
+          "localized_category_name": "Weapon",
+          "localized_tag_name": "Desert Eagle"
+        },
+        {
+          "category": "ItemSet",
+          "internal_name": "set_gamma_2",
+          "localized_category_name": "Collection",
+          "localized_tag_name": "The Gamma 2 Collection"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Category",
+          "localized_tag_name": "Normal"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Mythical_Weapon",
+          "localized_category_name": "Quality",
+          "localized_tag_name": "Restricted",
+          "color": "8847ff"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategory2",
+          "localized_category_name": "Exterior",
+          "localized_tag_name": "Field-Tested"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "4303618263",
+      "instanceid": "188530139",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTjlH_9mkgL-OlvD4NoTSmWVC_MRzhuz-_Yn0nk36_0JtZjvyINCTJwQ4ZA2F-1C-xO7q1sO4u8-bm3U27nMj4yuJzh20hwYMMLJC6rAnrw",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTjlH_9mkgL-OlvD4NoTSmWVC_MRzhuz-_Yn0nk2LpxIuNDztIIeUd1Q_ZQ7Wr1O4xLu6hJe8uZ3MmidnvXJwt3iIy0a2h0wYP-1sg-veFwu4ucHU8g",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Battle-Scarred"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been designed to help the future of law enforcement stop creeps.\n\n<i>Your move...</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Gamma 2 Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/spir.7e8df77de458192cb3f56f0d63a8a38c951da3c5.png\"><br>Sticker: Spirit | 2020 RMR</center></div>"
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D9702520301260661771",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "name": "Desert Eagle | Directive",
+      "name_color": "D2D2D2",
+      "type": "Restricted Pistol",
+      "market_name": "Desert Eagle | Directive (Battle-Scarred)",
+      "market_hash_name": "Desert Eagle | Directive (Battle-Scarred)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D9702520301260661771",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Pistol",
+          "localized_category_name": "Type",
+          "localized_tag_name": "Pistol"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_deagle",
+          "localized_category_name": "Weapon",
+          "localized_tag_name": "Desert Eagle"
+        },
+        {
+          "category": "ItemSet",
+          "internal_name": "set_gamma_2",
+          "localized_category_name": "Collection",
+          "localized_tag_name": "The Gamma 2 Collection"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Category",
+          "localized_tag_name": "Normal"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Mythical_Weapon",
+          "localized_category_name": "Quality",
+          "localized_tag_name": "Restricted",
+          "color": "8847ff"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategory4",
+          "localized_category_name": "Exterior",
+          "localized_tag_name": "Battle-Scarred"
+        },
+        {
+          "category": "Tournament",
+          "internal_name": "Tournament17",
+          "localized_category_name": "Tournament",
+          "localized_tag_name": "2020 RMR"
+        },
+        {
+          "category": "TournamentTeam",
+          "internal_name": "Team81",
+          "localized_category_name": "Team",
+          "localized_tag_name": "Team Spirit"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "4136012293",
+      "instanceid": "188530139",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957OORIQJG5dK5q5KKmuf1NL7um25V4dB8xLmXpNqgjgSxrRc6ZjilJ4Odcw83aArTrFm3k73q1sXtvZ_MmnFquXY8pSGKSAEoxo0",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957OORIQJG5dK5q5KKmuf1NL7um25V4dB8teXA54vwxgTi-kVpNWmmctLDd1doYl3Y-1i3yLzs05617s7MmiEyuyIntnzUnEOpwUYbulHNDYU",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Field-Tested"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. An olive and gold-colored hydrographic pattern of cartoon dinosaurs has been applied.\n\n<i>Dinosaurs and aliens and comets, oh my!</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Operation Broken Fang Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D729654378713539805",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "name": "P90 | Cocoa Rampage",
+      "name_color": "D2D2D2",
+      "type": "Mil-Spec Grade SMG",
+      "market_name": "P90 | Cocoa Rampage (Field-Tested)",
+      "market_hash_name": "P90 | Cocoa Rampage (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D729654378713539805",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_SMG",
+          "localized_category_name": "Type",
+          "localized_tag_name": "SMG"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_p90",
+          "localized_category_name": "Weapon",
+          "localized_tag_name": "P90"
+        },
+        {
+          "category": "ItemSet",
+          "internal_name": "set_community_27",
+          "localized_category_name": "Collection",
+          "localized_tag_name": "The Operation Broken Fang Collection"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Category",
+          "localized_tag_name": "Normal"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Rare_Weapon",
+          "localized_category_name": "Quality",
+          "localized_tag_name": "Mil-Spec Grade",
+          "color": "4b69ff"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategory2",
+          "localized_category_name": "Exterior",
+          "localized_tag_name": "Field-Tested"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "3113364434",
+      "instanceid": "188530139",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FABz7P7YKAJB49C5mpnbxsj5Nr_Yg2YfusZyieiQ99Sm3Azs-xc_Y2-nd4CTJwM9NFzZ_wLqleu90MftvZSbzWwj5HdtaCWIKg",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FABz7P7YKAJB49C5mpnbxsj5Nr_Yg2Zu5MRjjeyPp4_2i1XlqUtvZ2H7JNLGcgBqMl7Wr1S9lOrmgMXo6JibnCMyuylw4WGdwUK7htx2tg",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Field-Tested"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been hand painted with an orange and black design.\n\n<i>Be the last 01 standing</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Danger Zone Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D14573692979357714482",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "name": "MP9 | Modest Threat",
+      "name_color": "D2D2D2",
+      "type": "Mil-Spec Grade SMG",
+      "market_name": "MP9 | Modest Threat (Field-Tested)",
+      "market_hash_name": "MP9 | Modest Threat (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D14573692979357714482",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_SMG",
+          "localized_category_name": "Type",
+          "localized_tag_name": "SMG"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_mp9",
+          "localized_category_name": "Weapon",
+          "localized_tag_name": "MP9"
+        },
+        {
+          "category": "ItemSet",
+          "internal_name": "set_community_21",
+          "localized_category_name": "Collection",
+          "localized_tag_name": "The Danger Zone Collection"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Category",
+          "localized_tag_name": "Normal"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Rare_Weapon",
+          "localized_category_name": "Quality",
+          "localized_tag_name": "Mil-Spec Grade",
+          "color": "4b69ff"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategory2",
+          "localized_category_name": "Exterior",
+          "localized_tag_name": "Field-Tested"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "3113364493",
+      "instanceid": "188530139",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09qjloGZqPrxN7LEmyUC7MEj2u2X89X32wPsr0dkMWHxJoTEdwU6Zl3U-wLtlOvugcK76snO1zI97Uoz-DMz",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09qjloGZqPrxN7LEm1Rd6dd2j6eS8Yin2FDirUo-YG77cIKdIA48Y1qB_1K6xuvrhMXv6ZjIzSZk7HQl-z-DyB7dFg6K",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Exterior: Field-Tested"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. The muzzle of this military themed weapon has been scorched with use.\n\n<i>You call it used, we call it well-loved</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "The Danger Zone Collection",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D452691633050457596",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "name": "Tec-9 | Fubar",
+      "name_color": "D2D2D2",
+      "type": "Mil-Spec Grade Pistol",
+      "market_name": "Tec-9 | Fubar (Field-Tested)",
+      "market_hash_name": "Tec-9 | Fubar (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D452691633050457596",
+          "name": "Inspect in Game..."
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Pistol",
+          "localized_category_name": "Type",
+          "localized_tag_name": "Pistol"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_tec9",
+          "localized_category_name": "Weapon",
+          "localized_tag_name": "Tec-9"
+        },
+        {
+          "category": "ItemSet",
+          "internal_name": "set_community_21",
+          "localized_category_name": "Collection",
+          "localized_tag_name": "The Danger Zone Collection"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Category",
+          "localized_tag_name": "Normal"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Rare_Weapon",
+          "localized_category_name": "Quality",
+          "localized_tag_name": "Mil-Spec Grade",
+          "color": "4b69ff"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategory2",
+          "localized_category_name": "Exterior",
+          "localized_tag_name": "Field-Tested"
+        }
+      ]
+    }
+  ],
+  "more_items": 1,
+  "last_assetid": "23711053436",
+  "total_inventory_count": 19,
+  "success": 1,
+  "rwgrsn": -2
+}
